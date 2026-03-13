@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/loops.dir/src/04_loops.c.o -o loops 

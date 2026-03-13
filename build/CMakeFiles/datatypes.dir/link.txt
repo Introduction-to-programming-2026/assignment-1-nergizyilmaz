@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/datatypes.dir/src/01_datatypes.c.o -o datatypes 

@@ -1,0 +1,8 @@
+/workspaces/assignment-1-nergizyilmaz/build/CMakeFiles/datatypes.dir
+/workspaces/assignment-1-nergizyilmaz/build/CMakeFiles/operators.dir
+/workspaces/assignment-1-nergizyilmaz/build/CMakeFiles/conditionals.dir
+/workspaces/assignment-1-nergizyilmaz/build/CMakeFiles/loops.dir
+/workspaces/assignment-1-nergizyilmaz/build/CMakeFiles/cmd.dir
+/workspaces/assignment-1-nergizyilmaz/build/CMakeFiles/magic.dir
+/workspaces/assignment-1-nergizyilmaz/build/CMakeFiles/edit_cache.dir
+/workspaces/assignment-1-nergizyilmaz/build/CMakeFiles/rebuild_cache.dir

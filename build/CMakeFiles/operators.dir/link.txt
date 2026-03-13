@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/operators.dir/src/02_operators.c.o -o operators 
